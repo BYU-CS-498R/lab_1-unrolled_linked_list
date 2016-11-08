@@ -1,6 +1,3 @@
-''' You will need the following import if using python2 '''
-# from __future__ import absolute_import
-
 from ..unrolled_linked_list import UnrolledLinkedList
 import unittest
 

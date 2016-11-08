@@ -1,1 +1,1 @@
-from module import UnrolledLinkedList
+from .module import UnrolledLinkedList

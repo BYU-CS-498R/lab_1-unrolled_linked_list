@@ -1,1 +1,1 @@
-from module_tests import *
+from .module_tests import *
